@@ -1,0 +1,12 @@
+.content {
+    text-align: center;   
+    position: fixed; /* or absolute */
+    top: 30%;
+    left: 50%;
+}
+.no{
+    color: red;
+}
+.yes{
+    color: green;
+}
