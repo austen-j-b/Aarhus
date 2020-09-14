@@ -1,8 +1,9 @@
 .content {
     text-align: center;   
-    position: fixed; /* or absolute */
-    top: 30%;
-    left: 50%;
+}
+body{
+    display: flex;
+    flex-flow: column;
 }
 .no{
     color: red;
